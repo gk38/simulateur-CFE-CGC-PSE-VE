@@ -37,7 +37,8 @@ TABS = OrderedDict(
 
 def run():
     st.sidebar.image(
-        "https://dst-studio-template.s3.eu-west-3.amazonaws.com/logo-datascientest.png",
+        "logo_cfe.jpg",
+        #"https://dst-studio-template.s3.eu-west-3.amazonaws.com/logo-datascientest.png",
         width=200,
     )
     tab_name = st.sidebar.radio("",list(TABS.keys()),0)
