@@ -6,7 +6,7 @@ h4 {
 }
 
 code {
-  color: #1ec3bc;
+  color: #969696;
 }
 
 #MainMenu {
@@ -32,7 +32,7 @@ footer {
 /* Sidebar */
 
 section[data-testid="stSidebar"] > div {
-  background-color: #10b8dd;
+  background-color: #969696;
   padding-top: 2rem;
   padding-left: 1.5rem;
   
@@ -47,11 +47,11 @@ section[data-testid="stSidebar"] button[kind="icon"] {
 }
 
 section[data-testid="stSidebar"] .st-bk {
-  background-color: #10b8dd;
+  background-color: #969696;
 }
 
 section[data-testid="stSidebar"] .st-c0 {
-  background-color: black;
+  background-color: #969696;
 }
 
 section[data-testid="stSidebar"] hr {
@@ -76,7 +76,7 @@ button[title="View fullscreen"] {
 hr {
   width: 200px;
   border-width: 5px;
-  border-color: #10b8dd;
+  border-color: #969696;
   margin-top: 0px;
 }
 
